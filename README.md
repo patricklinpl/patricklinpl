@@ -6,8 +6,8 @@ I’m a software engineer currently living in Vancouver, Canada. My passion is t
 
 - 🧐 Interested in full stack. Recent focus on backend.
 - 💼 Back End Engineer. 
-- 🎓 Student at the University of British Columbia with a B.A. in Computer Science
-- 👦 Previously interned at [@SAP](https://github.com/sap), [@Scotiabank](https://github.com/scotiabank), [@Splunk](https://github.com/splunk), [@Shopify](https://github.com/shopify), [@DapperLabs](https://github.com/Dapperlabs)
+- 🎓 Student at the University of British Columbia with a B.A. in Computer Science.
+- 👦 Previously interned at [@SAP](https://github.com/sap), [@Scotiabank](https://github.com/scotiabank), [@Splunk](https://github.com/splunk), [@Shopify](https://github.com/shopify), [@DapperLabs](https://github.com/Dapperlabs).
 
 <details open>
 <summary>🤝 <b>To connect with me:</b></summary>
