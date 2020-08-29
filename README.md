@@ -20,7 +20,7 @@ I’m Patrick - a software engineer currently living in Vancouver, Canada.
 <p align="center">
 <a href= "mailto:patricklinpl@hotmail.com"><img src="https://img.icons8.com/material-outlined/30/000000/important-mail.png"/></a>
 <a href= "https://www.linkedin.com/in/patricklinpl/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://patricklinpl.github.io"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://patricklinpl.github.io"><img src="https://img.icons8.com/material-outlined/28/000000/geography.png"/></a>
 </p>
 
 </p>
