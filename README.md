@@ -15,7 +15,7 @@ I’m a software engineer currently living in Vancouver, Canada. My passion is t
 [<img src="https://img.shields.io/badge/email-%231877F2.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:patricklinpl@hotmail.com) 
 [![Website Badge](https://img.shields.io/badge/-website-e34f26?style=for-the-badge&logo=HTML5&logoColor=white&link=https://jayraj.co.in/)](https://patricklinpl.github.io/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patricklinpl/)
-[![Visits Badge](https://badges.pufler.dev/visits/patricklinpl/patricklinpl?style=for-the-badge)](https://github.com/patricklinplpatricklinpl/patricklinpl)
+[![Visits Badge](https://badges.pufler.dev/visits/patricklinpl/patricklinpl?style=for-the-badge)](https://github.com/patricklinpl/patricklinpl)
 
 </p>
 
