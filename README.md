@@ -36,5 +36,5 @@ I’m a software engineer currently living in Vancouver, Canada. My passion is t
 </p>
 
 <p align="center">
-<img align='center' src='https://media1.tenor.com/images/95faf419a344e1ee5b965d25aa33238a/tenor.gif' width='200"'>
+<img align='center' src='https://media.giphy.com/media/xBzJL8IAjDktZywKee/giphy.gif' width='200"'>
 </p>
