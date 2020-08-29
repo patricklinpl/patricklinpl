@@ -10,6 +10,8 @@ I’m Patrick - a software engineer currently living in Vancouver, Canada. My pa
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricklinpl&hide_langs_below=1&line_height=27&layout=compact" alt="patricklinpl's Most Used Language"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=patricklinpl&count_private=true&show_icons=true&include_all_commits=true&line_height=21" alt="patricklinpl's Github Stats"/>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=patricklinpl" alt="patricklinpl" /> </p>
 </p>
 
 <hr>
