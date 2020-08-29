@@ -34,3 +34,7 @@ I’m a software engineer currently living in Vancouver, Canada. My passion is t
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricklinpl&hide_langs_below=1&line_height=27&layout=compact"    alt="patricklinpl's Most Used Language"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=patricklinpl&count_private=true&show_icons=true&include_all_commits=true&line_height=21" alt="patricklinpl's Github Stats"/>
 </p>
+
+<p align="center">
+<img align='center' src='https://media1.tenor.com/images/95faf419a344e1ee5b965d25aa33238a/tenor.gif' width='200"'>
+</p>
