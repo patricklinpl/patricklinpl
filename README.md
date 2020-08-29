@@ -10,7 +10,7 @@ I’m a software engineer currently living in Vancouver, Canada. My passion is t
 - 👦 Previously interned at [@SAP](https://github.com/sap), [@Scotiabank](https://github.com/scotiabank), [@Splunk](https://github.com/splunk), [@Shopify](https://github.com/shopify), [@DapperLabs](https://github.com/Dapperlabs)
 
 <details open>
-<summary>🤝 <b>To connect with me</b></summary>
+<summary>🤝 <b>To connect with me:</b></summary>
 
 <p align = "center">
 
@@ -22,6 +22,8 @@ I’m a software engineer currently living in Vancouver, Canada. My passion is t
 </p>
 
 </details>
+
+---
 
 <details open>
  <summary> 📈 <b>My Github Stats</b>: </summary>
