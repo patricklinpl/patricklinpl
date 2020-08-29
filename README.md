@@ -1,4 +1,4 @@
-# Hi, I'm Patrick 👋
+# Hi, I'm Patrick 👋 👨‍💻
 
 I’m a software engineer currently living in Vancouver, Canada. My passion is to help people by building solutions to solve their complex problems in hopes of improving their workflow and perhaps bring more joy 😬.
 
