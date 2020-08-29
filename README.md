@@ -9,8 +9,6 @@ I’m a software engineer currently living in Vancouver, Canada. My passion is t
 - 🎓 Student [@University of British Columbia](https://www.ubc.ca/) with a B.A. in Computer Science.
 - 👦 Previously interned [@SAP](https://github.com/sap), [@Scotiabank](https://github.com/scotiabank), [@Splunk](https://github.com/splunk), [@Shopify](https://github.com/shopify), [@DapperLabs](https://github.com/Dapperlabs).
 
-<img align='right' src='https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif' width='200"'>
-
 <details open>
 <summary>🤝 <b>To connect with me:</b></summary>
 
@@ -26,6 +24,10 @@ I’m a software engineer currently living in Vancouver, Canada. My passion is t
 </details>
 
 ---
+
+<p align = "center">
+<img align='center' src='https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif' width='200"'>
+</p>
 
 <details open>
  <summary> 📈 <b>My Github Stats</b>: </summary>
