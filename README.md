@@ -25,10 +25,6 @@ I’m a software engineer currently living in Vancouver, Canada. My passion is t
 
 ---
 
-<p align = "center">
-<img align='center' src='https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif' width='200"'>
-</p>
-
 <details open>
  <summary> 📈 <b>My Github Stats</b>: </summary>
 
@@ -40,5 +36,6 @@ I’m a software engineer currently living in Vancouver, Canada. My passion is t
 </p>
 
 <p align="center">
-<img align='center' src='https://media.giphy.com/media/xBzJL8IAjDktZywKee/giphy.gif' width='200"'>
+<img align='left' src='https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/xBzJL8IAjDktZywKee/giphy.gif' width='200"'>
 </p>
