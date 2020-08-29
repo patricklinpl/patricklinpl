@@ -35,7 +35,7 @@ I’m a software engineer currently living in Vancouver, Canada. My passion is t
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=patricklinpl&count_private=true&show_icons=true&include_all_commits=true&line_height=21" alt="patricklinpl's Github Stats"/>
 </p>
 
-<p align="center">
+<p>
 <img align='left' src='https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif' width='200"'>
 <img align='right' src='https://media.giphy.com/media/xBzJL8IAjDktZywKee/giphy.gif' width='200"'>
 </p>
