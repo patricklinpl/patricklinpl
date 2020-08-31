@@ -38,5 +38,5 @@ I’m a software engineer currently living in Vancouver, Canada. My passion is t
 </p>
 
 <p align = "center">
-<img align='center' src='https://media.giphy.com/media/xBzJL8IAjDktZywKee/giphy.gif' width='200"'>
+<img align='center' src='https://media.giphy.com/media/xBzJL8IAjDktZywKee/giphy.gif' width='200'>
 </p>
