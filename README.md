@@ -1,7 +1,5 @@
 # Hi 👋, I'm Patrick 👨‍💻
 
-<img align='right' src='https://media.giphy.com/media/3o7bufrhglm1BTsfra/giphy.gif' width='200'>
-
 I’m a software engineer currently living in Vancouver, Canada. My passion is to help people by building solutions to solve their complex problems in hopes of improving their workflow and perhaps bring more joy 😬.
 
 - 🧐 Interested in full stack. Recent focus on backend.
